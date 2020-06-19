@@ -6,8 +6,11 @@ A hilariously large interactive Bash script for monitoring running processes and
 ## But... Why Create Such A Behemoth?
 To test the limits of my abilities.
 
+## How to Run
+In the Bash shell, simply run the monitor.sh script as you would any other script.
+
 ## System Requirements
-The latest version of Ubuntu should be just fine.
+A recent version of Ubuntu, or likely any other GNU/Linux distribution, should be just fine.
 
 ## Author
 Daniel Huettner
