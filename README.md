@@ -3,7 +3,7 @@
 ## Overview
 A hilariously large interactive Bash script for monitoring running processes and system resources.
 
-## But... Why Create Such A Behemoth?
+## But... Why??
 To test the limits of my abilities.
 
 ## How to Run
